@@ -1,4 +1,4 @@
-# Tea Ordering System (PHP + MySQL)
+# Captain J Ordering System (PHP + MySQL)
 Minimal tea ordering system with inventory, admin/staff roles, and printable receipts.
 Files included:
 - public/ (webroot)
@@ -32,3 +32,4 @@ Files included:
 - Receipt printing uses browser `window.print()` (simple thermal/printer-friendly HTML).
 - For PDF receipts server-side, integrate dompdf or TCPDF (instructions in README).
 - This code is intentionally minimal for learning and customization.
+"# captain-j-ordiring-POS-system" 
